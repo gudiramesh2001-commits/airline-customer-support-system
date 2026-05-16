@@ -1,0 +1,6 @@
+N8N_HOST=0.0.0.0
+N8N_PORT=5678
+N8N_PROTOCOL=https
+WEBHOOK_URL=https://glowing-space-waffle-4jx9jw4w6wrq27rv6-5678.app.github.dev/
+N8N_EDITOR_BASE_URL=Ahttps://glowing-space-waffle-4jx9jw4w6wrq27rv6-5678.app.github.dev/
+N8N_WEBHOOK_TUNNEL_URL=Ahttps://glowing-space-waffle-4jx9jw4w6wrq27rv6-5678.app.github.dev/
